@@ -1,0 +1,32 @@
+Z:\EncryptApp\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.exe.config
+Z:\EncryptApp\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.exe
+Z:\EncryptApp\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.pdb
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.AssemblyReference.cache
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.SuggestedBindingRedirects.cache
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.Form1.resources
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.Properties.Resources.resources
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.GenerateResource.cache
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.CoreCompileInputs.cache
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.exe
+Z:\EncryptApp\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.pdb
+C:\Users\Ella\Desktop\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.exe.config
+C:\Users\Ella\Desktop\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.exe
+C:\Users\Ella\Desktop\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.pdb
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.AssemblyReference.cache
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.Form1.resources
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.Properties.Resources.resources
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.GenerateResource.cache
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.exe
+C:\Users\Ella\Desktop\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.pdb
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.exe.config
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.exe
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\bin\Debug\PseudoRandomGenerator.pdb
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.AssemblyReference.cache
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.Form1.resources
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.Properties.Resources.resources
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.GenerateResource.cache
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.exe
+C:\Users\Ella\Desktop\Varnost - Copy\naloga6\PseudoRandomGenerator\obj\Debug\PseudoRandomGenerator.pdb
